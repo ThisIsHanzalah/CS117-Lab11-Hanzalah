@@ -1,4 +1,4 @@
-# Storage Estimator
+# Storage Estimator - Feature Version
 
 ## Purpose
 This program converts a storage size entered in gigabytes (GB) into
